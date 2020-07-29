@@ -20,7 +20,7 @@
 
 
 /*submenu*/
-.lnb{display:block; position:absolute; z-index:1; left:0; background:#aaa; line-height:50px; width:100%;}
+.lnb{display:none; position:absolute; z-index:1; left:0; background:#aaa; line-height:50px; width:100%;}
 .lnb li{text-align:center;}
 .lnb li a{display:block;}
 
